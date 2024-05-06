@@ -1,0 +1,14 @@
+io.flutter.plugins.urllauncher.url_launcher_android-core-1.10.1-0 /Users/ani/.gradle/caches/transforms-3/27f80547a7d47856bde96376229d60d6/transformed/core-1.10.1/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-1.0.0-beta04-1 /Users/ani/.gradle/caches/transforms-3/39e90bbacc593e90b91173930d304146/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-annotation-experimental-1.3.0-2 /Users/ani/.gradle/caches/transforms-3/74e20c2dc2182c83f79f0df5e72955cf/transformed/jetified-annotation-experimental-1.3.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-browser-1.5.0-3 /Users/ani/.gradle/caches/transforms-3/78d15be1d41740334ed51879a89adafa/transformed/browser-1.5.0/res
+io.flutter.plugins.urllauncher.url_launcher_android-jetified-window-java-1.0.0-beta04-4 /Users/ani/.gradle/caches/transforms-3/85be3b129a4c403f71745a501adf0b6d/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.urllauncher.url_launcher_android-lifecycle-runtime-2.3.1-5 /Users/ani/.gradle/caches/transforms-3/d611519736f31847a209f1c3a0a3bb12/transformed/lifecycle-runtime-2.3.1/res
+io.flutter.plugins.urllauncher.url_launcher_android-main-6 /Users/ani/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.1/android/src/main/res
+io.flutter.plugins.urllauncher.url_launcher_android-release-7 /Users/ani/.pub-cache/hosted/pub.dev/url_launcher_android-6.3.1/android/src/release/res
+io.flutter.plugins.urllauncher.url_launcher_android-pngs-8 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/generated/res/pngs/release
+io.flutter.plugins.urllauncher.url_launcher_android-resValues-9 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/generated/res/resValues/release
+io.flutter.plugins.urllauncher.url_launcher_android-rs-10 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/generated/res/rs/release
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-11 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.urllauncher.url_launcher_android-mergeReleaseResources-12 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.urllauncher.url_launcher_android-merged_res-13 /Users/ani/Documents/projectflutter/contact/build/url_launcher_android/intermediates/merged_res/release

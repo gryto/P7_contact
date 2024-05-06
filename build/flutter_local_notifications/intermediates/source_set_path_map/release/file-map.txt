@@ -1,0 +1,13 @@
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-media-1.1.0-0 /Users/ani/.gradle/caches/transforms-3/298eabcf5cd827ccf9edfc7d6fee1661/transformed/media-1.1.0/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-annotation-experimental-1.1.0-1 /Users/ani/.gradle/caches/transforms-3/2cc651390491592b40867e0e02aeedd3/transformed/jetified-annotation-experimental-1.1.0/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-1.0.0-beta04-2 /Users/ani/.gradle/caches/transforms-3/39e90bbacc593e90b91173930d304146/transformed/jetified-window-1.0.0-beta04/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-core-1.6.0-3 /Users/ani/.gradle/caches/transforms-3/3e8453158d270920c3a6f4280ff5862f/transformed/core-1.6.0/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-jetified-window-java-1.0.0-beta04-4 /Users/ani/.gradle/caches/transforms-3/85be3b129a4c403f71745a501adf0b6d/transformed/jetified-window-java-1.0.0-beta04/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-main-5 /Users/ani/.pub-cache/hosted/pub.dev/flutter_local_notifications-16.3.3/android/src/main/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-release-6 /Users/ani/.pub-cache/hosted/pub.dev/flutter_local_notifications-16.3.3/android/src/release/res
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-pngs-7 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/generated/res/pngs/release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-resValues-8 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/generated/res/resValues/release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-rs-9 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/generated/res/rs/release
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-10 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-mergeReleaseResources-11 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.dexterous.flutterlocalnotifications.flutter_local_notifications-merged_res-12 /Users/ani/Documents/projectflutter/contact/build/flutter_local_notifications/intermediates/merged_res/release
